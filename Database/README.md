@@ -14,7 +14,7 @@ pg_restore -d ooimeta work-postgres.psql
 
 A bunch of warnings will be displayed concerning roles.
 
-#### Restoring the OOI Metadata Database
+#### Restoring the SAF Database
 
 ```
 createdb saf
@@ -22,3 +22,4 @@ pg_restore -d saf saf-reports-postgres.psql
 ```
 
 A bunch of warnings will be displayed concerning roles.
+
