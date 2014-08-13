@@ -1,10 +1,10 @@
 # Fixed Platform Status Operations for Uncabled Surface Moorings
 
- | Use Case ID |                                                                |
- |-------------|----------------------------------------------------------------|
- | Name        | Fixed Platform Status Operations for Uncabled Surface Moorings |
- | Description |                                                                |
- | Actors      | CGSN Marine Operator                                           |
+| Use Case ID |     |
+|-------------|---------------------------------------------------------|
+| Name | Fixed Platform Status Operations for Uncabled Surface Moorings |
+| Description |                                                         |
+| Actors | CGSN Marine Operator                                         |
 
 ## Definition
 
