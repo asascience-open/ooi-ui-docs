@@ -5,4 +5,5 @@
 | [CGSN-OMC-CONOPS.pdf](CGSN-OMC-CONOPS.pdf) | CGSN Marine Operator CONOPS | Presented during the use case discussion at WHOI on 8 Aug |
 | [ontologies.pdf](ontologies.pdf) | A detailed description of the vocabulary and relationships used within OOI | Email thread about ontology |
 | [whoi-meeting-notes.md](whoi-meeting-notes.md) | Discussion and talking points from the first stake holder meeting with WHOI | |
+| [strawman-datamodel.pdf](strawman-datamodel.pdf) | Strawman Data Model | Discussion about consolidating vocabulary and data model | 
 
