@@ -1,3 +1,4 @@
+![Logo](http://asascience.com/images/logo.png)
 # Fixed Platform Status Operations for Uncabled Surface Moorings
 
 | Use Case ID |     |
