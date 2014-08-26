@@ -1,3 +1,4 @@
+#![](http://www.rpsgroup.com/images/2012-specific/RPSlogo.aspx) OOI Web UI Construction 
 # Event, Alert, and Alarm Management
 
 | Use Case ID | 011 |
