@@ -18,3 +18,4 @@
 | 016    | Status UI              | 3D Scene Management for Marine Assets                          | 8/25/2014    | 0        |
 | 017    | Status UI              | HD Video Camera Feed                                           | 8/25/2014    | 0        |
 | 018    | Status UI              | QA QC Data Evaluation                                          | 8/25/2014    | 0        |
+| 019    | Status UI              | Action Management                                              | 8/26/2014    | 0        |
