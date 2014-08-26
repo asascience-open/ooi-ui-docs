@@ -10,7 +10,7 @@
 | Description | An event, alert, and alarm system for informing users of potential issues |
 
 # Definition
-The actor may configure alerts and alarms to to be brought to the user's attention based off of an occurring event.  An alert donates an event that requires attention.  An alarm denotes an event that requires 24/7 action.  Action management provides a method of tracking the event/alert/alarm resolution.  See [OOI UI Use Case 019 - Action Management](OOI_UI_Use_Case_019-Status_UI-Action_Management.md) for more on Action Management
+The actor may configure alerts and alarms to to be brought to the user's attention based off of an occurring event.  An alert denotes an event that requires attention.  An alarm denotes an event that requires 24/7 action.  Action management provides a method of tracking the event/alert/alarm resolution.  See [OOI UI Use Case 019 - Action Management](OOI_UI_Use_Case_019-Status_UI-Action_Management.md) for more on Action Management
 
 # Assumptions
 - Observatory Management System (OMS) monitors and publishes many events related to monitoring of the marine assets.
