@@ -1,3 +1,4 @@
+#![](http://www.rpsgroup.com/images/2012-specific/RPSlogo.aspx) OOI Web UI Construction 
 # Fixed Platform Status Operations for Uncabled Surface Moorings
 
 | Use Case ID | 008 |
