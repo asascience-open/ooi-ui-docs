@@ -5,5 +5,9 @@
 |[OOI UI Use Case 003 - Science UI - Graphing](OOI_UI_Use_Case_003-Science_UI-Graphing.md) | The capability to display data in a graph  |
 |[OOI UI Use Case 004 - Science UI - Data Provisions](OOI_UI_Use_Case_004-Science_UI-Data_Provisions.md) | Provide the data to the end user |
 |[OOI UI Use Case 005 - Science UI - ERDDAP](OOI_UI_Use_Case_005-Science_UI-ERDDAP.md) | The usage of ERDDAP |
-|[OOI UI Use Case 006 - Science UI - Map Overlays](OOI_UI_Use_Case_006-Science_UI-Map_Overlays.md) | Being able to display overlaid maps/images |
 |[OOI UI Use Case 007 - Science UI - Data Processing](OOI_UI_Use_Case_007-Science_UI-Data_Processing.md) | Be able to retrieve, display and publish higher level data products requiring complex data processing from uFrame.  |
+|[OOI UI Use Case 021 - Science UI - Search And Download For OOI Data And Metadata](OOI_UI_Use_Case_021-Science_UI-Search_And_Download_For_OOI_Data_And_Metadata.md)| Allows subject, geographic or time-based search for OOI data based on specified criteria. |
+|[OOI UI Use Case 022 - Science UI - Search And Download For OOI Documents And Reports](OOI_UI_Use_Case_022-Science_UI-Search_And_Download_For_OOI_Documents_And_Reports.md)| Allows text-based search of website or archives |
+|[OOI UI Use Case 023 - Science UI - Add Ancillary Data From OOI Cruises](OOI_UI_Use_Case_023-Science_UI-Add_Ancillary_Data_From_OOI_Cruises.md)| The ability to Add ancillary data from OOI cruises |
+|[OOI UI Use Case 025 - Science UI - Examine Data Product Or Auxiliary Data](OOI_UI_Use_Case_025-Science_UI-Examine_Data_Product_Or_Auxiliary_Data.md)| User performs analysis on data set to determine if it is of sufficient quality to use in research. |
+|[OOI UI Use Case 034 - Science UI - Associations](OOI_UI_Use_Case_034-Science_UI-Associations.md)|User configurable capability to display “side by side” measurements from different instruments and/or systems for cross comparison.|

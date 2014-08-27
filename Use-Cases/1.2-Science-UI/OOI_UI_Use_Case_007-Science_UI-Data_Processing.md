@@ -1,3 +1,4 @@
+#![](http://www.rpsgroup.com/images/2012-specific/RPSlogo.aspx) OOI Web UI Construction 
 # Data Processing
 
 | Use Case ID | 007 |
@@ -6,13 +7,14 @@
 | Scope of Work | Science UI |
 | Actors | Science User |
 | Requester |  |
-| Description |  |
+| Description | Some data must be processed before it is useful for the science user |
 
-# Definition
+## Definition
+Some data must be processed before it is useful for the science user.  One example is conductivity data from a CTD being processed to salinity.
 
-# Assumptions
+## Assumptions
 
-# Scenario
+## Scenario
 
 - Be able to retrieve, display and publish higher level data products requiring complex data processing from uFrame.
 - Complex Data Processing Includes:

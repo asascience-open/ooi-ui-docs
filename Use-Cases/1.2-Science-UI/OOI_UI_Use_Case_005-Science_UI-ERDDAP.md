@@ -1,3 +1,4 @@
+#![](http://www.rpsgroup.com/images/2012-specific/RPSlogo.aspx) OOI Web UI Construction 
 # ERDDAP
 
 | Use Case ID | 005 |
@@ -6,12 +7,12 @@
 | Scope of Work | Science UI |
 | Actors | Science User |
 | Requester |  |
-| Description |  |
+| Description | Using ERDDAP for data provisions |
 
-# Definition
+## Definition
 
-# Assumptions
+## Assumptions
 
-# Scenario
+## Scenario
 
 - ERDDAP is a community standard and has already been a known interface for R2 and R3, and we shouldn't break a known interface
