@@ -1,3 +1,4 @@
+#![](http://www.rpsgroup.com/images/2012-specific/RPSlogo.aspx) OOI Web UI Construction 
 # Fixed Platform Status Operations for Uncabled Surface Moorings
 
 | Use Case ID | 008 |
@@ -6,17 +7,17 @@
 | Scope of Work | Status UI |
 | Actors | CGSN Marine Operator |
 | Requester | CG |
-| Description |  |
+| Description | Display the health and status of the Uncabled Surface Moorings|
 
-# Definition
+## Definition
 
-# Assumptions
+## Assumptions
 
-# Scenario
+## Scenario
 
 Marine Operator can identify the health and status of the platform. The items of interest that compose an overall status of the platform can be broken into three tiers. Tier 1 items are the most important factors for observing the health of the platform. A failure observed in a tier 1 item would be indicative of serious platform health issues.
 
-## Examples for Tier 1 items
+### Examples for Tier 1 items
 
 - Geolocation, the platform remains within the geofence.
 - Telemetry and Communication Status
@@ -27,7 +28,7 @@ Marine Operator can identify the health and status of the platform. The items of
   - Instruments to the CPM or STC
   - DCL link and Schedule Variance
 
-## Example for Tier 2 items
+### Example for Tier 2 items
 
 - Power System Controller
   - Battery Charge, Charge Cycle
@@ -41,7 +42,7 @@ Marine Operator can identify the health and status of the platform. The items of
 
 - MMP Profiling Function
 
-## Example for Tier 3 items
+### Example for Tier 3 items
 
 - Instrument Function
   - Data file presence, size

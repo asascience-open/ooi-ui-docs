@@ -1,3 +1,4 @@
+#![](http://www.rpsgroup.com/images/2012-specific/RPSlogo.aspx) OOI Web UI Construction 
 # Marine Operator Turnover
 
 | Use Case ID | 009 |
@@ -6,17 +7,17 @@
 | Scope of Work | Status UI |
 | Actors | CGSN Marine Operator                    |
 | Requester | CG |
-| Description |  |
+| Description | Maintain a watch log |
 
-# Definition
+## Definition
 
 Provide tools for the CGSN marine operators to maintain a watch log, and assist in watch turnover.
 
-# Assumptions
+## Assumptions
 
-# Scenario
+## Scenario
 
-Marine operators can keep a log of events that happened during the watch. The goal is the clear transfer of information between operators.
+Marine operators can keep a log of events that happened during the watch to ensure a clear transfer of information between operators.  Below are the fields of concern for the marine operator to input:
 
 - Who did what
 - What actions were taken
