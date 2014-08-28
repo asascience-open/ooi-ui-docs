@@ -18,3 +18,4 @@
 |[OOI UI Use Case 031 - Status UI - Respond To Trouble Ticket](OOI_UI_Use_Case_031-Status_UI-Respond_To_Trouble_Ticket.md)| Provides an interface for the viewing of and response to a Trouble Ticket |
 |[OOI UI Use Case 032 - Status UI - Update Metadata](OOI_UI_Use_Case_032-Status_UI-Update_Metadata.md)| Update values of all required metadata fields when a data product is updated |
 |[OOI UI Use Case 033 - Status UI - Investigate Telemetered Data](OOI_UI_Use_Case_033-Status_UI-Investigate_Telemetered_Data.md)|Data Manager receives 'trouble report' and must investigate|
+|[OOI UI Use Case 035 - Status UI - Bathymetric Scene](OOI_UI_Use_Case_035-Status_UI-Bathymetric_Scene.md)| Included in the 3d scene should be realistic bathymetric data|

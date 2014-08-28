@@ -34,3 +34,4 @@
 | 032    | Status UI              | Update Metadata                                                | 8/27/2014    | 0        |
 | 033    | Status UI              | Investigate Telemetered Data                                   | 8/27/2014    | 0        |
 | 034    | Science UI             | Associations                                                   | 8/27/2014    | 0        |
+| 035    | Status UI              | Bathymetric Scene                                              | 8/28/2014    | 0        |
