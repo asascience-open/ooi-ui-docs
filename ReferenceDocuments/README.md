@@ -7,4 +7,10 @@
 | [whoi-meeting-notes.md](whoi-meeting-notes.md) | Discussion and talking points from the first stake holder meeting with WHOI | |
 | [strawman-datamodel.pdf](strawman-datamodel.pdf) | Strawman Data Model | Discussion about consolidating vocabulary and data model | 
 | [Deployment_names_and_Dates_2014-08-18_ver_1-00.xls](Deployment_names_and_Dates_2014-08-18_ver_1-00.xls) | Update deployment dates for the platforms |
+| [ocean_gui_visualizations.pptx](ocean_gui_visualizations.pptx)| Powerpoint provided by Rutgers with examples of graphs that will need to be supported |
+| [OOI - RSN Command and Control.pdf](OOI - RSN Command and Control.pdf)| Preliminary CAC Wire Frames|
+| [OOI - Science User.pdf](OOI - Science User.pdf)| Preliminary Science User Wire Frames|
+| [User-Roles.md](User-Roles.md)| Table showing the User Role Privelages|
+
+
 
