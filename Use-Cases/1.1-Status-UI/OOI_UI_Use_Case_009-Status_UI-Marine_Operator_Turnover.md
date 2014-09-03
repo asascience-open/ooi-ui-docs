@@ -23,3 +23,5 @@ Marine operators can keep a log of events that happened during the watch to ensu
 - What actions were taken
 - What actions are pending
 - Escalation of problems or notifications
+
+At the end of the Marine Operator's watch, they have the option to passs alarms/alerts to another marine operator.

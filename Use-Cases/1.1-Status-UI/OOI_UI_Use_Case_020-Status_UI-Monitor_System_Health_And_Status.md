@@ -24,20 +24,20 @@ An "assets at a glance" landing page for marine operators to view all assets cur
 - On this world map, the operator can:
   - Zoom and Pan
     - Zooming changes the level of detail displayed (arrays, platform, nodes, components)
-  - Toggle on/off assets
+  - Toggle on/off display of assets
   - Mouse over the asset to display basic information.
     - Status
     - Deploy Date
     - Name
     - Power usage/ power availability
   - Drill down from higher level assets (e.g. arrays) to lower level assets (e.g. components)
-- As an alternative view, the operator can switch from world view to a grid of assets currently deployed.
+- As an alternative view, the operator can switch from world view to a Dashboard of assets currently deployed.
   - This view will show:
     - Name
     - Status
     - Power usage/ power availability
   - On this view the operator is able to:
-    - Toggle on/off assets
+    - Toggle on/off display of assets
     - Sort by paramters
     - Mouse over to display basic information
       - Lat/Lon
@@ -55,7 +55,7 @@ Steps
 5. At this point, and per procedure, the MO opens a TR and contacts the RSN O&M Lead to explain the situation. 
 6. The next day a person investigates, fixes the fault and eventually closes the TR.
 
-1. A buoy has exceeded its watch circle which suggests it has broken free from its mooing. This is an emergent situation that poses a hazard to navigation
+2. A buoy has exceeded its watch circle which suggests it has broken free from its mooing. This is an emergent situation that poses a hazard to navigation
 
 Steps
 
@@ -65,7 +65,7 @@ Steps
 4. The MO confers with the CI O&M technician (if available) to double check the telemetry and investigate alternative possibilities.
 5. The MIO O&M Lead assumes responsibility and executes the "Loose at sea, Asset Procedure." If the MIO O&M Lead is not immediately available, the procedure identifies the second and third person to assume responsibility and subsequent actions.
 
-1. During a dive, a glider detects water in the electronics bay, auto-aborts the dive, surfaces in a shipping lane and sends a distress signal via satellite. This is a safety event and an emergent situation requiring immediate action.
+3. During a dive, a glider detects water in the electronics bay, auto-aborts the dive, surfaces in a shipping lane and sends a distress signal via satellite. This is a safety event and an emergent situation requiring immediate action.
 
 Steps
 
@@ -75,7 +75,7 @@ Steps
 4. The MO confers with the CI O&M technician (if available) to double check the telemetry and investigate possibilities. The glider location is determined from telemetry and it is identified to be a hazard to shipping.
 5. The MIO O&M Lead assumes responsibility and executes the "Loose at sea, Hazard to Shipping, Asset Procedure." This would include changing the life-cycle state of the platform. If the MIO O&M Lead is not immediately available, the MO executes the procedure.
 
-1. An instrument detects an underwater event of scientific interest, communicates to shore and receives instructions to change sampling intervals and/or movement to investigate. Intensive monitoring is required to avoid consuming irreplaceable power or other resources.
+4. An instrument detects an underwater event of scientific interest, communicates to shore and receives instructions to change sampling intervals and/or movement to investigate. Intensive monitoring is required to avoid consuming irreplaceable power or other resources.
 
 Steps
 
@@ -88,7 +88,7 @@ Steps
 7. The MOs then closely monitor the reassigned assets for both data performance and operational consequences of these new assignments.
 8. At the end of the mission, the assets are returned to their previously defined sampling rates or to those rates as specified in the amended mission plan. The webmaster post and announcement of the changed configurations.
 
-1. A recent deployment included an externally funded and new PI instrument. It is unknown exactly how the rest of the mooring will respond. Close monitoring is required for both the mooring and the affected data path to ensure the new instrument and data do not affect the rest of the system.
+5. A recent deployment included an externally funded and new PI instrument. It is unknown exactly how the rest of the mooring will respond. Close monitoring is required for both the mooring and the affected data path to ensure the new instrument and data do not affect the rest of the system.
 
 Steps
 
@@ -96,15 +96,12 @@ Steps
 2. Depending on the length of the PI activity and assessed possible impact to the mooring, initial close monitoring may proceed from hourly to daily to weekly if all operations appear nominal.
 3. The MIO and CI technicians have pre-approved contingency actions that they can take to safeguard the deployed assets and the data path of OOI products.
 
-1. There is a need to set/change alerts/alarms and then monitor them closely to make sure the changes were correct and that the item of interest is being properly auto-monitored and reported by the system. This scenario applies to
+6. There is a need to set/change alerts/alarms and then monitor them closely to make sure the changes were correct and that the item of interest is being properly auto-monitored and reported by the system. This scenario applies to
 
-1. 
-  1. 
-    - 
-      - all sea assets;
-      - all land assets;
-      - all science products
-      - all operational leased assets- e.g., comms
+- All sea assets
+- All land assets
+- All science products
+- All operational leased assets- e.g., comms
 
 Steps
 
