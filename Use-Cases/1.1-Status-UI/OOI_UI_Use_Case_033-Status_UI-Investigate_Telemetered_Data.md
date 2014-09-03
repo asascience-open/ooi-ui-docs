@@ -37,4 +37,4 @@ There will be frequent and sometimes confusing reports of 'problems with the dat
     2. Knowing that the hydrophones are a Tier 1 instrument, the DM suspects deliberate diversion/blockage by the Navy.
     3. The DM first uses the OMC screens and the CI screens to rule out communication or storage problems; they are ruled out.
     4. The DM then contacts the Navy POC but receives a rather standard response, deliberately constructed to neither confirm nor deny and Navy activity wrt this dataset.
-    5. The DM responds to the TR with a prepared response stating that our 
+    5. The DM responds to the TR with a prepared response stating that our system appearas to be working but that as a Tier 1 instrument, the daya may be going under review.  The TR is closed. 
