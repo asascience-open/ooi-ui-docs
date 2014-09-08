@@ -2,7 +2,7 @@
 
 | Use Case | Description |
 |----------|-------------|
-|[OOI UI Use Case 006 - Status UI - Map Overlays](OOI_UI_Use_Case_006-Science_UI-Map_Overlays.md) | Being able to display overlaid maps/images |
+|[OOI UI Use Case 006 - Status UI - Map Overlays](OOI_UI_Use_Case_006-Status_UI-Map_Overlays.md) | Being able to display overlaid maps/images |
 |[OOI UI Use Case 008 - Status UI - Fixed Platform Status Operations For Uncabled Surface Moorings](OOI_UI_Use_Case_008-Status_UI-Fixed_Platform_Status_Operations_For_Uncabled_Surface_Moorings.md) | Status monitoring for uncabled surface moorings |
 |[OOI UI Use Case 009 - Status UI - Marine Operator Turnover](OOI_UI_Use_Case_009-Status_UI-Marine_Operator_Turnover.md) | Tools for marine operators to ensure a clear transfer of information between operators |
 |[OOI UI Use Case 011 - Status UI - Event Alert And Alarm Management](OOI_UI_Use_Case_011-Status_UI-Event_Alert_And_Alarm_Management.md) | An event, alert, and alarm system for informing users of potential issues |
