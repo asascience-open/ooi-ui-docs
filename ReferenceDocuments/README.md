@@ -11,6 +11,6 @@
 | [OOI - RSN Command and Control.pdf](OOI - RSN Command and Control.pdf)| Preliminary CAC Wire Frames|
 | [OOI - Science User.pdf](OOI - Science User.pdf)| Preliminary Science User Wire Frames|
 | [User-Roles.md](User-Roles.md)| Table showing the User Role Privelages|
-
+| [SEMP_UI_Concerns.md](SEMP_UI_Concerns.md)| Information from the OOI SEMP concerning the UI|
 
 

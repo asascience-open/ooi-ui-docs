@@ -7,9 +7,10 @@
 | Scope of Work | Command and Control UI |
 | Actors | RSN Marine Operator                    |
 | Requester | RSN |
-| Description |  |
+| Description | The OOI UI will need to be able to interface with other scientific resources to present a clearer picture for the user  |
 
 ## Definition
+There is a need for the UI to interface with external services and systems.  This interaction will help pull additional information to support OOI data.
 
 ## Assumptions
 
