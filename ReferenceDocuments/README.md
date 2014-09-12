@@ -12,5 +12,5 @@
 | [OOI - Science User.pdf](OOI - Science User.pdf)| Preliminary Science User Wire Frames|
 | [User-Roles.md](User-Roles.md)| Table showing the User Role Privelages|
 | [SEMP_UI_Concerns.md](SEMP_UI_Concerns.md)| Information from the OOI SEMP concerning the UI|
-
+| [AWIPS 2 Investigation](https://docs.google.com/document/d/1UlvtbpJ6kucRLHbtHcWrCaNJ_mCnT-oK5QS7UjZXqiI/edit?usp=sharing)| AWIPS 2 Investigation by Jim Case|
 
