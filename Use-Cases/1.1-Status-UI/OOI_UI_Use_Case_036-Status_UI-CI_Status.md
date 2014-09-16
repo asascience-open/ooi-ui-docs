@@ -5,7 +5,7 @@
 | --- | --- |
 | Name | CI Status |
 | Scope of Work | Status UI |
-| Actors: | Data Manager (DM), O&M Leads, O&M engineers |
+| Actors: | Data Manager (DM), Operators, Facility, OL, Science User |
 | Requester | OL |
 | Description: | Display that status of the Cyber Infrastructure for OOI |
 

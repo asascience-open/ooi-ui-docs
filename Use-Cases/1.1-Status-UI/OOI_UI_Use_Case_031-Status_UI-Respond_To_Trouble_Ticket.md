@@ -5,7 +5,7 @@
 | --- | --- |
 | Name | Respond to Trouble Ticket |
 | Scope of Work | Status UI |
-| Actors: | OOI User; observatory manager; systems administrator |
+| Actors: | Facility |
 | Requester | OL |
 | Description: | Provides an interface for the viewing of and response to a Trouble Ticket  |
 

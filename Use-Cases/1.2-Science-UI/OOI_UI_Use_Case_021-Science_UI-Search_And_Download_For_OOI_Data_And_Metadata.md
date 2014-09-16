@@ -5,7 +5,7 @@
 | --- | --- |
 | Name | Search, Locate and download OOI data |
 | Scope of Work | Science UI|
-| Actors| Internal (Marine Implementing Organization Science User, MIO-SU) and/or External Science User (Ex-SU) |
+| Actors| Science |
 | Requester | OL |
 | Description| Allows subject, geographic or time-based search for OOI data based on specified criteria. |
 
@@ -38,4 +38,5 @@ Steps:
 
 ##Comments
 
-This use case must take place within the User Interface of OOINet
+- This use case must take place within the User Interface of OOINet
+

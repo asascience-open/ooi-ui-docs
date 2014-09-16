@@ -5,7 +5,7 @@
 | --- | --- |
 | Name | New Asset Testing                     |
 | Scope of Work | Command and Control UI |
-| Actors | RSN Marine Operator,  CG Marine Operator,  EA Marine Operator                    |
+| Actors | Operator, Facility |
 | Requester | OL|
 | Description | Allow the Marine Operator the ability to test a new instrument, new platform, or new configuration before it is available to external users. |
 

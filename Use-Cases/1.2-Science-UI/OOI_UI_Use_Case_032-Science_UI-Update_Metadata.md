@@ -5,7 +5,7 @@
 | --- | --- |
 | Name | Update Metadata in a Data Product |
 | Scope of Work | Status UI |
-| Actors: | The OOI cyberinfrastructure system; a Marine Operator or OOI Scientist |
+| Actors: | Marine Operator, Science |
 | Requester | OL |
 | Description: | Update values of all required metadata fields when a data product is updated  |
 
@@ -23,13 +23,11 @@ OOI Data Products must have associated metadata which explains data provenance a
 
 ##Scenario
 
-The following steps describe how the OOI cyberinfrastructure system will update the metadata.
+The following steps describe how the operator or project scientist will update the metadata.
 
-Steps:
 
 1. When a data product is reprocessed, update all data product metadata values which have changed.
 2. Data product metadata shall include:
-
 
   1. Name of and link to the Data Product Specification document
   2. name of and link to the Data Product Algorithm code

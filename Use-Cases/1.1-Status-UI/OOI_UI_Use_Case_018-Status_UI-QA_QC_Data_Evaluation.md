@@ -5,9 +5,9 @@
 | --- | --- |
 | Name | QA/QC Data Evaluation                 |
 | Scope of Work | Status UI |
-| Actors: | PSs |
+| Actors: | Facility, Data Manager |
 | Requester | OL |
-| Description: | It permits authorized users (PSs) to view a data set, determine scientific quality, make changes to improve the data, flag data, annotate the data. |
+| Description: | It permits authorized users to view a data set, determine scientific quality, make changes to improve the data, flag data, annotate the data. |
 
 
 ##Need Statement

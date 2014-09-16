@@ -5,7 +5,7 @@
 | --- | --- |
 | Name | Monitor system health and status                |
 | Scope of Work | Status UI |
-| Actors | RSN Marine Operator, CG Marine Operator, EA Marine Operator, Science User|
+| Actors | Marine Operator, Science User, Facility, OL|
 | Requester | OL |
 | Description | An "assets at a glance" landing page for marine operators |
 
@@ -19,19 +19,7 @@ An "assets at a glance" landing page for marine operators to view all assets cur
 - This function is also related to and interacts with the alert/alarm functions
 
 ## Scenario
-- When a marine operator uses the status UI they are provided a world map that displays all of the currently deployed assets.
-- The world map supports overlays that are selectable by the operator.
-- On this world map, the operator can:
-  - Zoom and Pan
-    - Zooming changes the level of detail displayed (arrays, platform, nodes, components)
-  - Toggle on/off display of assets
-  - Mouse over the asset to display basic information.
-    - Status
-    - Deploy Date
-    - Name
-    - Power usage/ power availability
-  - Drill down from higher level assets (e.g. arrays) to lower level assets (e.g. components)
-- As an alternative view, the operator can switch from world view to a Dashboard of assets currently deployed.
+- When an operator uses the status UI they are provided with a dhasboard view of OOI assets.
   - This view will show:
     - Name
     - Status
@@ -43,6 +31,21 @@ An "assets at a glance" landing page for marine operators to view all assets cur
       - Lat/Lon
       - Deploy Date
 - Time data of these statuses are provided to the user as well.
+
+
+
+- As an alternative view, the operator is provided a world map that displays all of the currently deployed assets.
+- The world map supports overlays that are selectable by the operator.
+- On this world map, the operator can:
+  - Zoom and Pan
+    - Zooming changes the level of detail displayed (arrays, platform, nodes, components)
+  - Toggle on/off display of assets
+  - Mouse over the asset to display basic information.
+    - Status
+    - Deploy Date
+    - Name
+    - Power usage/ power availability
+  - Drill down from higher level assets (e.g. arrays) to lower level assets (e.g. components)
 
 1. A critical server at the shore station abruptly powered off and a new, backup, server assumed responsibility - data may or may not have stopped flowing. This is an urgent event that requires immediate investigation and may affect capture of science data.
 

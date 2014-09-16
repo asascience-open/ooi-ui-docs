@@ -5,7 +5,7 @@
 | --- | --- |
 | Name | Bathymetric Scene |
 | Scope of Work | Status UI |
-| Actors: | Users, Marine Operators |
+| Actors: | Science, Marine Operators, Facility, Data Manager |
 | Requester | RSN |
 | Description: | Included in the 3d scene should be realistic bathymetric data  |
 

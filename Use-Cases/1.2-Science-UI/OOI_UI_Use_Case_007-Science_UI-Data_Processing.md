@@ -15,8 +15,12 @@ Some data must be processed before it is useful for the science user.  One examp
 ## Assumptions
 
 ## Scenario
+Be able to retrieve, display and publish higher level data products requiring complex data processing from uFrame.
 
-- Be able to retrieve, display and publish higher level data products requiring complex data processing from uFrame.
+1. A scientist uses the UI to observe higher order data.
+2. The UI is provided the higher order data from uFrame, already processed.
+
+The following data might be desired by a scientist:
 - Complex Data Processing Includes:
   - Colocated Instruments that combine to make L2 parameters
     - OPTABSN
@@ -30,3 +34,4 @@ Some data must be processed before it is useful for the science user.  One examp
     - Gliders (Lat/Lon)
     - Wire Following Profilers
       - ADCPs need direction from the WFP to create the bins
+

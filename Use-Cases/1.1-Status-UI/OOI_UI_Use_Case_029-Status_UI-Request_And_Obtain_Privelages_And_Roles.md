@@ -5,7 +5,7 @@
 | --- | --- |
 | Name | Request and Obtain user privileges and roles |
 | Scope of Work | Status UI |
-| Actors: | OOI User; observatory manager; systems administrator |
+| Actors: | Science User, Operator, Facility, OL, Data Manager |
 | Requester | OL |
 | Description: | Allows a user to Request and Obtain user privileges and roles (e.g. to command an instrument) |
 
@@ -32,6 +32,6 @@ Steps:
 5. The completed forms are reviewed by the appropriate observatory manager for approval and approved, disapproved, or returned for further clarification
 6. The systems administrator enables any authorized changes in user privileges and roles
 
-Comments
+## Comments
 
 Some elements of OOI have finite and expendable resources which must be managed at the mission level; conflicts in resources must be manually adjudicated when they occur.

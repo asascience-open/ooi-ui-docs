@@ -20,7 +20,7 @@ Users need to find and download specific OOI documents, cruise reports, calibrat
 
 ##Scenario
 
-The following steps describe one way the actor would utilize the system to accomplish this task.
+The following steps describe one way the actor would utilize the system to accomplish this task.  This may change depending on the designed layout of the UI.  
 
 Steps:
 

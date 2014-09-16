@@ -5,7 +5,7 @@
 | --- | --- |
 | Name | Add ancillary data from OOI cruises |
 | Scope of Work | Science UI |
-| Actors | Internal science user (MIO-SU), MIO O&M Lead, marine operator (MIO-MO), OOI webmaster (CI-WM).  |
+| Actors | Operator, Science, Data Manager  |
 | Requester | OL |
 | Description |  |
 
@@ -33,8 +33,8 @@ User completes processing 162 water samples for Chlorophyll _a_ analysis from th
 
 Actions to ADD these ancillary data to the OOI permanent record:
 
-1. MIO-SU places the results in a pre-formatted OOI cruise spreadsheet, with a link to the sample collection and analysis protocols used.
-2. MIO O&M Lead (or designee) cross-checks spreadsheet for accuracy (quality), signs off, creates action item (TR?) and sends/assigns to webmaster.
-3. OOI webmaster sees opened action item/TR, and per procedure uploads to the OOI website under Configuration Management control. 
-4. MIO O&M Lead validates (signs off) that the file has been uploaded to the correct location within the directory structure and confirms that the file can be retrieved without error. Then closes action item/TR
-in the User Interface of OOI, in this case the data documentation branch of the OOI website
+1. Operator places the results in a pre-formatted OOI cruise spreadsheet, with a link to the sample collection and analysis protocols used.
+2. Operator uses the Science UI to submit the ancillary cruise data.
+3. Cruise data is added to the data model, related to this data set.
+4. If an error occurs in the databse injection (wrong data type, field too long, etc.) the operator is informed of the failure along with verbage to explain the error.
+

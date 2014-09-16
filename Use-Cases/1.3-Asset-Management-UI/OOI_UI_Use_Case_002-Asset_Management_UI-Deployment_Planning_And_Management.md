@@ -5,8 +5,8 @@
 | --- | --- |
 | Name | Deployment Planning and Management             |
 | Scope of Work | Asset Management UI |
-| Actors | Science User |
-| Requester |  |
+| Actors | Operator |
+| Requester | OL |
 | Description |  |
 
 ## Definition
@@ -14,19 +14,17 @@
 ## Assumptions
 
 ## Scenario
+An Operator wants to view the current mission for an asset.
+1. Operator navigates to asset management UI.
+2. Operator selects desired asset and views the current mission specifications.
+3. Operator can also see where the asset is and how far along into the mission the asset is, along with estimated time of completion.
+ 
+An operator want to design a mission for an asset that is yet to be deployed.
+1. Operator navigates to asset management UI.
+2. Operator selects desired asset that is yet to be deployed. 
+3. Operator selects 'plan a mission' and inserts the mission plan (time of deployment, way points, sampling rates, data transmission frequency, etc.).
+4. Operator selects 'save'.
 
-- Able to identify physically where the instrument is, has been and is planned to be
-- Maybe a map?
-- Think, given a serial number, or serial numbers, provide planning capabilities
-- Asset State:
-  - Planned
-  - Deployed
-  - Status OK
-  - Status BAD
-  - Recovered
-  - Testing
-  - Vendor
-  - Bench
-
-- Tie this information into other displays
-  - When looking at the port configuration also be able to come see this instruments specific information
+## Comments
+- The saved mission plan can be loaded to the asset via the Command and Control UI
+- This Use Case is very closely tied to Command and Control.
