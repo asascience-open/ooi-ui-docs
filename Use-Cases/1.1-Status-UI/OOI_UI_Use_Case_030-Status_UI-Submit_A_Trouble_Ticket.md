@@ -5,7 +5,7 @@
 | --- | --- |
 | Name | Submit a Trouble Ticket |
 | Scope of Work | Status UI |
-| Actors: | OOI User; observatory manager; systems administrator |
+| Actors: | Science User, Operator, Facility, OL, Data Manager |
 | Requester | OL |
 | Description: | Allows a user to submit a trouble ticket  |
 

@@ -5,9 +5,9 @@
 | --- | --- |
 | Name | Associations  |
 | Scope of Work | Science UI|
-| Actors | Any registered science user |
+| Actors | Science |
 | Requester | OL |
-| Description | User configurable capability to display “side by side” measurements from different instruments and/or systems for cross comparison.  |
+| Description | User configurable capability to display side by side measurements from different instruments and/or systems for cross comparison. |
 
 ##Definition
 
@@ -18,26 +18,22 @@ The system provides the user the ability to display multiple measurements from d
 - Includes visualization of time series, profiles, tracks, images, and other date types.
 
 ##Scenario
-1. User wants to display temperature data from different sensors in different locations
-
- Steps:
+User wants to display temperature data from different sensors in different locations
 
  1. User selects first temperature time series data that they wish to compare.
  2. User chooses the "compare" button/box.
  3. User selects second timeseries of interest.
  4. User chooses "compare" button/box on this time series.
- 5. System displays the time series side by side with matching X and Y axes.
+ 5. System displays the time series overlayed in one graph.
  6. The X and Y Axes can be rescaled individually if so desired by the user.
 
-2. User wants to display two different types of data from sesnors in the same location.
 
- Steps:
-
+User wants to display two different types of data from sesnors in the same location.
  1. User selects first temperature time series data that they wish to compare.
  2. User chooses the "compare" button/box.
  3. User selects second timeseries of interest.
  4. User chooses "compare" button/box on this time series.
- 5. System displays the time series side by side with matching X axis.
+ 5. System displays the time series overlayed in one graph, scaling the y axes as needed.
  6. The X and Y Axes can be rescaled individually if so desired by the user.
 
 

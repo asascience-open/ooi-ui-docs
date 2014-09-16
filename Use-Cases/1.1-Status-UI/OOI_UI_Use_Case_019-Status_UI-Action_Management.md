@@ -5,18 +5,31 @@
 | --- | --- |
 | Name | Action Management                 |
 | Scope of Work | Status UI |
-| Actors | RSN Marine Operator, CG Marine Operator, EA Marine Operator, Science User |
+| Actors | Marine Operator, Facility, OL |
 | Requester | OL |
 | Description | An action management system for tracking the resolutions of potential issues |
 
-## Definition
+## 
 Action management provides a method of tracking the problem resolution through assigned actions, engineering investigations, and FMEA.
  
 ## Assumptions
 - Each individual user/actor will have their own Action Management Branch for reporting, delegating, and viewing actions needed.
-- JIRA Based
+- Redmine Based
 
 ## Scenario
+1. An operator is logged in and an alarm pops up.
+2. The operator acknowledged the issue and refers to previous training, experience, and/or issue mitigation procedures to decide on the appropraite action for resolution.
+3. The operator opens action management and creates a new action.
+4. The created action provides a step by step resolution procedure.
+5. The operator assigns the action to a user, with a target date for completion, as well as users to be notified upon resolution.
+6. Action management sends an SMS, email, or phonecall to let the assigned user know they have an outstanding action.
+7. The assigned user logs in to the UI and goes to action management.
+8. The user follows the step by step procedure for resolution.
+9. Once resolved the assigned user closes the action. 
+10. Action Management sends emails, sms, or phonecalls to notify the users who need to be notified that the problem has been resolved.
+
+
+## Comments
 - The system provides the user an interface for event, alert, and alarm resolution management.
 - After an event, alert, or alarm that requires resolution occurs, the action management interface is populated with an action.
   - This action is assigned to a default user/actor based on the context of the event/alert/alarm. 

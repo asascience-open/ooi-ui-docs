@@ -5,7 +5,7 @@
 | --- | --- |
 | Name | Investigate Telemetered Data |
 | Scope of Work | Status UI |
-| Actors: | Data Manager (DM), O&M Leads, OOI Project Scientists, marine operators, O&M engineers |
+| Actors: | Data Manager, Marine Operators, Science, Facility, OL |
 | Requester | OL |
 | Description: | Data Manager receives 'trouble report' and must investigate  |
 

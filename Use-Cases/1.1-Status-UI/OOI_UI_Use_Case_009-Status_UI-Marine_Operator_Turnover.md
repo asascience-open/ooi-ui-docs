@@ -5,7 +5,7 @@
 | --- | --- |
 | Name | Marine Operator Turnover                  |
 | Scope of Work | Status UI |
-| Actors | CGSN Marine Operator                    |
+| Actors | Marine Operators                    |
 | Requester | CG |
 | Description | Maintain a watch log |
 
@@ -16,12 +16,15 @@ Provide tools for the CGSN marine operators to maintain a watch log, and assist 
 ## Assumptions
 
 ## Scenario
-
-Marine operators can keep a log of events that happened during the watch to ensure a clear transfer of information between operators.  Below are the fields of concern for the marine operator to input:
+A marine operator is coming near the end of their shift and needs to transition knowledge of what has happened to the next operator.  The marine operator would open the 'Marine Operator Turnover Log' and fil out the form.  Fields that could be in the form include:
 
 - Who did what
 - What actions were taken
 - What actions are pending
 - Escalation of problems or notifications
 
-At the end of the Marine Operator's watch, they have the option to passs alarms/alerts to another marine operator.
+After completion of the form the marine operator would save and close the log.  The UI would then prompt the user to modify their custom alerts and alarms.  The marine operator could passs alarms/alerts to another marine operator or suppress their own alarms until they log in next.
+
+When the next marine operator logs in the operator turnover log would pop up on the screen.  The new operator must acknowledge this log before they can proceed with their duties.
+
+

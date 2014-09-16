@@ -5,7 +5,7 @@
 | --- | --- |
 | Name | Register New User |
 | Scope of Work | Status UI |
-| Actors: | All |
+| Actors: | Operators, Facility, OL, Data Manager |
 | Requester | OL |
 | Description: | Allows the user base of OOI to expand as new parties seek access to OOI data.|
 
@@ -29,6 +29,6 @@ Steps:
 2. The user selects (by clicking) the hyperlink "Register as a User"
 3. The user completes a menu of appropriate questions and is granted an account with appropriately limited privileges.
 
-Comments
+##Comments
 
 This use case must take place within the home page of ocean observatories.

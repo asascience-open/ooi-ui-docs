@@ -5,9 +5,9 @@
 | --- | --- |
 | Name | Annotate Data |
 | Scope of Work | Status UI |
-| Actors: | Operators, PSs |
+| Actors: | Operators, Science |
 | Requester | OL |
-| Description: | It permits two levels of data annotation. The first is a general capability open to all registered users. It allows the registered user to add text, including URLs to comment fields of data products. This permits the community to share their results, observations, concerns and questions about a particular data set.The second level is for authorized users only- mostly OOI operators and/or PSs. This requires special permissions and allows annotation of items like data quality, mission status, and other 'official' comments/documentation. |
+| Description: | It permits two levels of data annotation. The first is a general capability open to all registered users. It allows the registered user to add text, including URLs to comment fields of data products. This permits the community to share their results, observations, concerns and questions about a particular data set.The second level is for authorized users only- mostly OOI operators and/or project scientists. This requires special permissions and allows annotation of items like data quality, mission status, and other 'official' comments/documentation. |
 
 ##Need Statement
 Data sets must be capable of being annotated to contain both observations by the end users and 'official' comments relating to availability, problems with the data, corrections that have been made, etc.

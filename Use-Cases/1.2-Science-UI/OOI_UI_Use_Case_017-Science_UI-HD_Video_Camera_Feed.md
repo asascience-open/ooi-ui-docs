@@ -5,7 +5,7 @@
 | --- | --- |
 | Name | HD Video Camera Feed                    |
 | Scope of Work | Status UI |
-| Actors | Marine Operator                    |
+| Actors | Science User  |
 | Requester | RSN |
 | Description | Provide HD Video Feed |
 
@@ -15,4 +15,8 @@ Provide HD Video Feed to both Science Users and Marine Operators
 ## Assumptions
 
 ## Scenario
-Provide HD Video Feed to both Science Users and Marine Operators 
+Provide HD Video Feed to both Science Users
+
+1. The navigates to the HD camera instrument
+2. A live stream from the HD camera is shown on the page.
+3. Instrument metadata is provided on screen as well to provide context for the user.

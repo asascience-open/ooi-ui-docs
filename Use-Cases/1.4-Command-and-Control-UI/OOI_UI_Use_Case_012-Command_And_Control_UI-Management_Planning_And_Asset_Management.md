@@ -5,7 +5,7 @@
 | --- | --- |
 | Name | Management Planning and Asset Management          |
 | Scope of Work | Command and Control UI |
-| Actors | Observatory Director, O&M Leads, marine operators |
+| Actors | Operators, Facility, Science |
 | Requester | OL |
 | Description | User executes steps to load a different configuration (sensors, platforms) into the OOI database as a result of new deployments or repairs. User executes steps to sustain the approved configuration. |
 

@@ -5,7 +5,7 @@
 | --- | --- |
 | Name | Load Previously Used Configuration                    |
 | Scope of Work | Command and Control UI |
-| Actors | RSN Marine Operator,  CG Marine Operator,  EA Marine Operator, Science User                    |
+| Actors |  Operator, Facility      |
 | Requester | OL|
 | Description | Allow the Marine Operator the ability to load a new instrument or new platform with a perviously used configuration before it is available to external users. |
 
