@@ -1,38 +1,38 @@
-| Number | Scope of Work          | Title                                                          | Date Created | Revision |
-|--------|------------------------|----------------------------------------------------------------|--------------|----------|
-| 001    | Asset Management UI    | Infrastructure Asset Management                                | 8/25/2014    | 0        |
-| 002    | Asset Management UI    | Deployment Planning And Management                             | 8/25/2014    | 0        |
-| 003    | Science UI             | Graphing                                                       | 8/25/2014    | 0        |
-| 004    | Science UI             | Data Provisions                                                | 8/25/2014    | 0        |
-| 005    | Science UI             | ERDDAP                                                         | 8/25/2014    | 0        |
-| 006    | Status UI              | Map Overlays                                                   | 8/25/2014    | 0        |
-| 007    | Science UI             | Data Processing                                                | 8/25/2014    | 0        |
-| 008    | Status UI              | Fixed Platform Status Operations For Uncabled Surface Moorings | 8/25/2014    | 0        |
-| 009    | Status UI              | Marine Operator Turnover                                       | 8/25/2014    | 0        |
-| 010    | Command and Control UI | Command and Control                                            | 8/25/2014    | 0        |
-| 011    | Status UI              | Event Alert and Alarm Management                               | 8/25/2014    | 0        |
-| 012    | Command and Control UI | Management Planning and Asset Management                       | 8/25/2014    | 0        |
-| 013    | Command and Control UI | External Interfaces                                            | 8/25/2014    | 0        |
-| 014    | Command and Control UI | Mission Control                                                | 8/25/2014    | 0        |
-| 015    | X                      | X                                                              | X            | X        |
-| 016    | Science UI             | 3D Scene Management for Marine Assets                          | 8/25/2014    | 0        |
-| 017    | Science UI             | HD Video Camera Feed                                           | 8/25/2014    | 0        |
-| 018    | Status UI              | QA QC Data Evaluation                                          | 8/25/2014    | 0        |
-| 019    | Status UI              | Action Management                                              | 8/26/2014    | 0        |
-| 020    | Status UI              | Monitor_System_Health_And_Status                               | 8/26/2014    | 0        |
-| 021    | Science UI             | Search and Download For OOI Data and Metadata                  | 8/26/2014    | 0        |
-| 022    | Science UI             | Search and Download For OOI Documents and Reports              | 8/27/2014    | 0        |
-| 023    | Science UI             | Add Ancillary Data from OOI Cruises                            | 8/26/2014    | 0        |
-| 024    | Science UI             | Annotate Data                                                  | 8/27/2014    | 0        |
-| 025    | Science UI             | Examine Data Product or Auxiliary Data                         | 8/27/2014    | 0        |
-| 026    | Command and Control UI | Testing                                                        | 8/27/2014    | 0        |
-| 027    | Command and Control UI | Load Previous Configuration                                    | 8/27/2014    | 0        |
-| 028    | Status UI              | Register New User                                              | 8/27/2014    | 0        |
-| 029    | Status UI              | Request and Obtain Privelages and Roles                        | 8/27/2014    | 0        |
-| 030    | Status UI              | Submit a Trouble Tick                                          | 8/27/2014    | 0        |
-| 031    | Status UI              | Respond to a Trouble Ticket                                    | 8/27/2014    | 0        |
-| 032    | Science UI             | Update Metadata                                                | 8/27/2014    | 0        |
-| 033    | Status UI              | Investigate Telemetered Data                                   | 8/27/2014    | 0        |
-| 034    | Science UI             | Associations                                                   | 8/27/2014    | 0        |
-| 035    | Science UI             | Bathymetric Scene                                              | 8/28/2014    | 0        |
-| 036    | Status UI              | CI Status                                                      | 9/03/2014    | 0        |
+| Number | Scope of Work          | Title                                             | Operator | Science User | Facility | Data Manager | Ocean Leadership |
+|--------|------------------------|---------------------------------------------------|----------|--------------|----------|--------------|------------------|
+| 001    | Asset Management UI    | Infrastructure Asset Management                   | X        |              | X        |              |                  |
+| 002    | Asset Management UI    | Deployment Planning And Management                | X        |              |          |              |                  |
+| 003    | Science UI             | Graphing                                          |          | X            |          |              |                  |
+| 004    | Science UI             | Data Provisions                                   |          | X            |          |              |                  |
+| 005    | Science UI             | ERDDAP                                            |          | X            |          |              |                  |
+| 006    | Science UI             | Map Overlays                                      | X        | X            | X        |              |                  |
+| 007    | Science UI             | Data Processing                                   |          | X            |          |              |                  |
+| 008    | N/A                    | N/A                                               |          |              |          |              |                  |
+| 009    | Status UI              | Marine Operator Turnover                          | X        |              |          |              |                  |
+| 010    | Command and Control UI | Command and Control                               | X        | X            | X        |              |                  |
+| 011    | Status UI              | Event Alert and Alarm Management                  | X        |              | X        |              | X                |
+| 012    | Command and Control UI | Management Planning and Asset Management          |          |              |          |              |                  |
+| 013    | N/A                    | N/A                                               |          |              |          |              |                  |
+| 014    | N/A                    | N/A                                               |          |              |          |              |                  |
+| 015    | N/A                    | N/A                                               |          |              |          |              |                  |
+| 016    | Science UI             | 3D Scene Management for Marine Assets             | X        | X            | X        |              |                  |
+| 017    | Science UI             | HD Video Camera Feed                              |          | X            |          |              |                  |
+| 018    | Status UI              | QA QC Data Evaluation                             |          |              | X        | X            |                  |
+| 019    | Status UI              | Action Management                                 | X        |              | X        |              | X                |
+| 020    | Status UI              | Monitor System Health And Status                  | X        | X            | X        |              | X                |
+| 021    | Science UI             | Search and Download For OOI Data and Metadata     |          | X            |          |              |                  |
+| 022    | Science UI             | Search and Download For OOI Documents and Reports |          | X            |          |              |                  |
+| 023    | Science UI             | Add Ancillary Data from OOI Cruises               | X        | X            |          | X            |                  |
+| 024    | Science UI             | Annotate Data                                     | X        | X            |          |              |                  |
+| 025    | Science UI             | Examine Data Product or Auxiliary Data            | X        | X            |          | X            |                  |
+| 026    | Command and Control UI | Testing                                           | X        |              | X        |              |                  |
+| 027    | Command and Control UI | Load Previous Configuration                       | X        |              | X        |              |                  |
+| 028    | Status UI              | Register New User                                 | X        | X            | X        | X            | X                |
+| 029    | Status UI              | Request and Obtain Privelages and Roles           | X        | X            | X        | X            | X                |
+| 030    | Status UI              | Submit a Trouble Tick                             | X        | X            | X        | X            | X                |
+| 031    | Status UI              | Respond to a Trouble Ticket                       |          |              | X        |              |                  |
+| 032    | Science UI             | Update Metadata                                   | X        | X            |          |              |                  |
+| 033    | Status UI              | Investigate Telemetered Data                      | X        | X            | X        | X            |                  |
+| 034    | Science UI             | Associations                                      |          | X            |          |              |                  |
+| 035    | Science UI             | Bathymetric Scene                                 | X        | X            | X        |              |                  |
+| 036    | Status UI              | CI Status                                         | X        | X            | X        | X            | X                |
