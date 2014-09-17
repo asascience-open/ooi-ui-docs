@@ -1,7 +1,7 @@
 #![](http://www.rpsgroup.com/images/2012-specific/RPSlogo.aspx) OOI Web UI Construction 
 # Load Previously Used Configuration
 
-| Use Case ID | 026 |
+| Use Case ID | 027 |
 | --- | --- |
 | Name | Load Previously Used Configuration                    |
 | Scope of Work | Command and Control UI |
