@@ -5,7 +5,7 @@
 | --- | --- |
 | Name | 3D Scene Management for Marine Assets           |
 | Scope of Work | Status UI |
-| Actors | Operator, Facility |
+| Actors | Operator, Facility, Science |
 | Requester | RSN |
 | Description |  |
 
