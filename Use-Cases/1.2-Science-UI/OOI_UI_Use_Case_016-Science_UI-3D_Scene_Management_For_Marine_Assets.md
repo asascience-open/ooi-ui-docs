@@ -23,3 +23,5 @@ The user has a 3D rendering of the marine assets and surrounding area so that th
 2. The operator opens the 3D scene management for that asset.
 3. The oeprator notices that the mooring is designed for a 200m water depth, but the deployed area is 500m.
 4. The operator files a Trouble Ticket to fix this issue.
+
+Accompanying the 3D scene, it would be good to have images of the real instruments installed in-situ.
