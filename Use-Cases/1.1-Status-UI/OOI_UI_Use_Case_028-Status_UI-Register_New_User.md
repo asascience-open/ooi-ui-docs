@@ -5,7 +5,7 @@
 | --- | --- |
 | Name | Register New User |
 | Scope of Work | Status UI |
-| Actors: | Operators, Facility, OL, Data Manager |
+| Actors: | Operators, Science, Facility, OL, Data Manager |
 | Requester | OL |
 | Description: | Allows the user base of OOI to expand as new parties seek access to OOI data.|
 
