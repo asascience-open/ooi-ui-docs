@@ -13,6 +13,7 @@
 Deliver data to User
 
 ## Assumptions
+- This Use case might not be needed.  It is currently here as a place holder for requirements generation on the off chance it is needed.  Most likely will be deleted. 
 
 ## Scenario
 
