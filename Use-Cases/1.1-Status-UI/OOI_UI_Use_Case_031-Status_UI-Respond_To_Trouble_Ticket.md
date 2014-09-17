@@ -17,7 +17,7 @@ There needs to be a system for the viewing of and response to trouble tickets fi
 ##Assumptions
 
 - A supported browser is used
-
+- Red Mine is used
 
 ##Scenario
 
