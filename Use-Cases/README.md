@@ -1,4 +1,4 @@
-| Number   | Scope of Work            | Title                                               | Operator   | Science User   | Facility   | Data Manager   | Ocean Leadership   |
+| Number   | Scope of Work            | Title                                               | Operator   | Science User   | Facility   | Data Manager   | Program Management   |
 | -------- | ------------------------ | --------------------------------------------------- | ---------- | -------------- | ---------- | -------------- | ------------------ |
 | 001      | Asset Management UI      | Infrastructure Asset Management                     | X          |                | X          |                |                    |
 | 002      | Asset Management UI      | Deployment Planning And Management                  | X          |                |            |                |                    |
