@@ -16,7 +16,7 @@ There needs to be a system for users to report issues that occur in the system.
 
 ##Assumptions
 
-- A supported browser is used
+- Red Mine is used
 
 
 ##Scenario
