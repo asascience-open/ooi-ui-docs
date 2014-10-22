@@ -29,12 +29,13 @@ Science Justification for this use case: before inserting the OOI data from 2015
 
 Steps:
 
-1. Search and download the chlorophyll data product from 5m below the surface on the Surface Mooring at the mid-shelf WA site, 80m water depth (reflected in SciUser.1);
-2. Retrieve & download all QC information on that data product over the 3 year history (This is accomplished as part of the data time-series download);
+1. Search and download the chlorophyll data product from 5m below the surface on the Surface Mooring at the mid-shelf WA site, 80m water depth;
+2. Search and download all QC information on that data product over the 3 year history (This is accomplished as part of the data time-series download);
 3. Search and download metadata related to that product (calibration history, serial #, instrument deployment history, etc)
 4. Outside OOI Net, user evaluates consistency of chlorophyll product across the deployment boundaries, comparing product time series to supplemental data records (time series) from remote sensing or other research expeditions;
 5. Based on comparison with other data sets, user decides to apply (outside of OOI Net) an alternative method for trend correction (instrument drift or biofouling) within each 6-month deployment interval within the time series;
-6. Authorized user submits to the OOINet system- revised data created externally with HITL processing and any additional external information for other users 
+6. Authorized user submits to the OOINet administrator via trouble ticket system the revised data created externally with HITL processing and any additional external information for other users 
+7. OOINet administrator takes action on the trouble ticket by verifying all changes and required metadata attributes then integrates the revised data into the OOINet database.
 
 User annotates the data product (comments, alternative processing steps, etc)
 
