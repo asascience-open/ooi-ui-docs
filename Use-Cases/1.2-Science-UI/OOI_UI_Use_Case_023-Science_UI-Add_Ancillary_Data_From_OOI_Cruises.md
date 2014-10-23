@@ -34,7 +34,7 @@ User completes processing 162 water samples for Chlorophyll _a_ analysis from th
 Actions to ADD these ancillary data to the OOI permanent record:
 
 1. Operator places the results in a pre-formatted OOI cruise spreadsheet, with a link to the sample collection and analysis protocols used.
-2. Operator uses the Science UI to submit the ancillary cruise data.
-3. Cruise data is added to the data model, related to this data set.
-4. If an error occurs in the databse injection (wrong data type, field too long, etc.) the operator is informed of the failure along with verbage to explain the error.
+2. Operator logs into the UI and searches for and nagivates to array/platform(s) the cruise apples to on the Science UI screen.
+3. Operator selects option to upload ancillary data. OOI cruise spreadsheet is added to the data model. The link to this spreadsheet is created in the metadata for all related data products.
+4. If an error occurs in the databse injection (wrong data type, field too long, etc.) the operator is informed of the failure along with verbage to explain the error. 
 
