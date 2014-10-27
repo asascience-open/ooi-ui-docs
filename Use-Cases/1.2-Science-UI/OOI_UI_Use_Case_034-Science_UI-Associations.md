@@ -1,9 +1,9 @@
 #![](http://www.rpsgroup.com/images/2012-specific/RPSlogo.aspx) OOI Web UI Construction 
-#Associations
+#Compare Data from Different Sensors
 
 | Use Case ID | 034 |
 | --- | --- |
-| Name | Associations  |
+| Name | Compare Data from Different Sensors  |
 | Scope of Work | Science UI|
 | Actors | Science |
 | Requester | OL |
