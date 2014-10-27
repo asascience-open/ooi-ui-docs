@@ -23,9 +23,9 @@ There will be frequent and sometimes confusing reports of 'problems with the dat
   1. The DM receives a TR from an external source that there is no data from the Pioneer Inshore Upstream WFP after May 29, 2014.
     1. The DM uses the public UI to view the current data from this source and confirms the report.
     2. The DM views the data logs to verify last time of data acquisition by the: CyberPop, the OMC, and the satellite downlink site.
-    3. The DM uses the CI/DM screen to view the status of the communications pathway from the OMC to the CI and finds it 'green'
-    4. The DM uses the CI screens to check the data path processes at the CyberPop and finds them 'green'.
-    5. The DM checks the OMC screens and they show 'green.'
+    3. The DM views the status of the communications pathway from the OMC to the CI and verifies 'OK'
+    4. The DM checks the data path processes at the CyberPop and verifies them 'OK'.
+    5. The DM checks the OMC status and verifies 'OK'
     6. The DM injects a test particle into the OMC/CI server and it properly progresses through the system. 
     7. Having isolated the problem upstream of the OMC server, the DM contacts the O&M Lead for Pioneer and transfers ownership of the TR.
     8. The O&M Lead investigates and fixes the problem (finds that the data have been mistakenly rerouted to a null address)
@@ -35,6 +35,6 @@ There will be frequent and sometimes confusing reports of 'problems with the dat
   2. The DM receives a TR that there is a large gap in a deployed seafloor hydrophone and wants to know where to acquire the data.
     1. The DM uses the standard UI to confirm the data gap and begins the investigation.
     2. Knowing that the hydrophones are a Tier 1 instrument, the DM suspects deliberate diversion/blockage by the Navy.
-    3. The DM first uses the OMC screens and the CI screens to rule out communication or storage problems; they are ruled out.
+    3. The DM first checks the status OMC and CI servers to rule out communication or storage problems; they are ruled out.
     4. The DM then contacts the Navy POC but receives a rather standard response, deliberately constructed to neither confirm nor deny and Navy activity wrt this dataset.
-    5. The DM responds to the TR with a prepared response stating that our system appearas to be working but that as a Tier 1 instrument, the daya may be going under review.  The TR is closed. 
+    5. The DM responds to the TR with a prepared response stating that our system appears to be working but that as a Tier 1 instrument, the daya may be going under review.  The TR is closed. 
