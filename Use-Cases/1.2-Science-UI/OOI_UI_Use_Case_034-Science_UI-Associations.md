@@ -20,21 +20,19 @@ The system provides the user the ability to display multiple measurements from d
 ##Scenario
 User wants to display temperature data from different sensors in different locations
 
- 1. User selects first temperature time series data that they wish to compare.
- 2. User chooses the "compare" button/box.
- 3. User selects second timeseries of interest.
- 4. User chooses "compare" button/box on this time series.
- 5. System displays the time series overlayed in one graph.
- 6. The X and Y Axes can be rescaled individually if so desired by the user.
+ 1. User searches for first temperature time series data that they wish to compare.
+ 2. User selects the "compare" option.
+ 3. User searches for and selects second timeseries of interest.
+ 4. System displays the time series overlayed in one graph.
+ 5. The X and Y Axes can be rescaled if so desired by the user.
 
 
-User wants to display two different types of data from sesnors in the same location.
- 1. User selects first temperature time series data that they wish to compare.
- 2. User chooses the "compare" button/box.
- 3. User selects second timeseries of interest.
- 4. User chooses "compare" button/box on this time series.
- 5. System displays the time series overlayed in one graph, scaling the y axes as needed.
- 6. The X and Y Axes can be rescaled individually if so desired by the user.
+User wants to display two different types of data from sensors in the same location.
+ 1. User searches for first temperature time series data that they wish to compare.
+ 2. User selects the "compare" option.
+ 3. User searches for and selects second timeseries of interest.
+ 4. System displays the time series overlayed in one graph, scaling the y axes as needed.
+ 5. The X and Y Axes can be rescaled if so desired by the user.
 
 
 
