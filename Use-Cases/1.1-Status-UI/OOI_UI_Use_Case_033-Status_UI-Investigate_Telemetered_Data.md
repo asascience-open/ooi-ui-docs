@@ -1,9 +1,9 @@
 #![](http://www.rpsgroup.com/images/2012-specific/RPSlogo.aspx) OOI Web UI Construction 
-#Investigate Telemetered Data
+#Troubleshoot Missing Telemetered Data
 
 | Use Case ID | 033 |
 | --- | --- |
-| Name | Investigate Telemetered Data |
+| Name | Troubleshoot Missing Telemetered Data |
 | Scope of Work | Status UI |
 | Actors: | Data Manager, Marine Operators, Science, Facility, OL |
 | Requester | OL |
