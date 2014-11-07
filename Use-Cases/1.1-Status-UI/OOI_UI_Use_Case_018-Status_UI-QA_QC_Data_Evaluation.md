@@ -5,34 +5,32 @@
 | --- | --- |
 | Name | QA/QC Data Evaluation                 |
 | Scope of Work | Status UI |
-| Actors: | Facility, Data Manager |
+| Actors: | Facility Operator, Data Manager |
 | Requester | OL |
-| Description: | It permits authorized users to view a data set, determine scientific quality, make changes to improve the data, flag data, annotate the data. |
+| Description: | It permits authorized users to view a data set, determine scientific quality, flag data of questionable data quality, annotate the data. |
 
 
 ##Need Statement
 
-Data require periodic examination and adjustment by SMEs. Flaws in processing, unrealistic instrument errors, or communication drops all need to be checked and appropriately flagged.
+Data require periodic examination by the Data management team. Flaws in processing, unrealistic values, or trend changes consistent with biofouling problems  is identified and then appropriately flagged.
 
 ##Definition
 
-The SME downloads a data set and performs QC with a mixture of experience, other data sets and analysis. They then add any corrected values, modify metadata if needed and annotate the data or data set if necessary. They then upload the new data to the OOI.
+The Data evaluator uses the u-Frame system tools which apply automated Qa/Qc algorithms to enable Qa/Qc check of OOI data.  The data evalautor utilizes quick look plots to further assess data quality.  The evaluator flags and antonates any data of questionable quality and informs the data manager of the status.  
 
 ##Assumptions 
 
-- HITL efforts will utilize OOI SMEs with read/write privileges to particular data sets.
-- HITL efforts will 'add' data corrections' and not delete the original data.
-- The SME will use their own analysis tools on their local machine
 
 
 ##Scenario
-An RSN scientist is reviewing data and discovers errors that need to be corrected.
+An data evaluator is reviewing data and assessing it quality.
 
 STEPS:
 
-1. The scientist downloads a data set to their local machine.
-2. Using their own tools, examines that data and makes necessary modifications to the data values.
-3. During this process the scientist makes some annotations to individual data value cells.
-4. When finished, the "HITL editor" tool (available only to authorized SMEs) prompts the scientist to enter metadata explaining what was changed and why.
-5. After the scientist finishes with the metadata updates and clicks "finish", the HITL tool creates a new data structure that incorporates the SME corrected data values and annotations.
-6. The scientist uploads the corrected data set where the OOI system assimilates the changes
+1. The evaluator logs into uframe, and selects a specific data product of interest
+2. The data in the uFrame system has applied automated algorithms for Qa/Qc
+3. The evaluator then utilizes the quick look plot to examine the data
+4. The data evaluator identifies some data of questionable quality and applies appropiate flags
+5. The data evaluator then annotate the concerns
+6. The data evaluator then informs the data manager 
+7. The data manager can then initate a "deep" dive into the flagged data
