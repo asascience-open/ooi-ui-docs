@@ -25,10 +25,11 @@ The following steps describe one way the actor would utilize the system to accom
 
 Steps:
 
-1. The user navigates to the OOI 'User Privileges and Roles' tab of the OOI homepage website (oceanobservatories.org); 
+1. The user navigates to the OOI 'User Privileges and Roles' tab of the OOI homepage website (oceanobservatories.org)
+2. The user is able to click on links for "Help" which will send email to the site administrator or "Contacts" which will display a list of persons assigned to specific roles and responsibilities along with their contact information.
 2. The user clicks on the 'Review and Change Roles' link or the 'Request and Obtain User Privileges' link; 
 3. Following helpful guidelines, the user completes the request template on the appropriate page; 
-4. The user scans the listed documents for April 2014, locates and downloads the cruise plan and cruise reporIf the user has questions, there are 'Help' and 'Contact' links to request the answers;
+4. The user scans the listed documents for April 2014, locates and downloads the cruise plan and cruise report. If the user has questions, there are 'Help' and 'Contact' links to request the answers;
 5. The completed forms are reviewed by the appropriate observatory manager for approval and approved, disapproved, or returned for further clarification
 6. The systems administrator enables any authorized changes in user privileges and roles
 
