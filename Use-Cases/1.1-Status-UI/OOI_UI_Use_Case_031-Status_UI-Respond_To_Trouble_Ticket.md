@@ -30,3 +30,4 @@ Steps:
 3. The person delegated the Trouble Ticket fixes the issue
 4. Once fixed, the fixer registers the fix in the Trouble Ticket Service and closes the ticket
 5. The Trouble Ticket service logs the completion and alerts the original user of the fix
+6. Any user with access to the trouble ticket system is able to search for and retrieve open or closed tickets
