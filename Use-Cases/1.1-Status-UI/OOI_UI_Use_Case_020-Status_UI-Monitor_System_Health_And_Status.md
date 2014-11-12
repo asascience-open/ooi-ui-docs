@@ -1,9 +1,9 @@
 #![](http://www.rpsgroup.com/images/2012-specific/RPSlogo.aspx) OOI Web UI Construction 
-# Monitor system health and status
+# Monitor system health, status, and statistics
 
 | Use Case ID | 020 |
 | --- | --- |
-| Name | Monitor system health and status                |
+| Name | Monitor system health, status and statistics                |
 | Scope of Work | Status UI |
 | Actors | Marine Operator, Science User, Facility, OL|
 | Requester | OL |
@@ -19,7 +19,6 @@ An "assets at a glance" landing page for marine operators to view all assets cur
 - This function is also related to and interacts with the alert/alarm functions
 
 ## Scenario
-
 
 - When an operator uses the status UI they are provided with a dashboard view of OOI assets.
   - This view will show:
@@ -64,7 +63,6 @@ An "assets at a glance" landing page for marine operators to view all assets cur
   - Data range and trend
   - Anomalies and trends
   - Specific instrument outputs
-
 - MMP profiling function
 
 
@@ -81,10 +79,9 @@ An "assets at a glance" landing page for marine operators to view all assets cur
     - Power usage/ power availability
   - Drill down from higher level assets (e.g. arrays) to lower level assets (e.g. components)
 
-Specific Scenaroes shown below:
+Specific Scenarioes shown below:
 
-
-1. A critical server at the shore station abruptly powered off and a new, backup, server assumed responsibility - data may or may not have stopped flowing. This is an urgent event that requires immediate investigation and may affect capture of science data.
+Example 1. A critical server at the shore station abruptly powered off and a new, backup, server assumed responsibility - data may or may not have stopped flowing. This is an urgent event that requires immediate investigation and may affect capture of science data.
 
 Steps
 
@@ -96,7 +93,7 @@ Steps
 6. The next day a person investigates, fixes the fault and eventually closes the TR.
 
 
-2. A buoy has exceeded its watch circle which suggests it has broken free from its mooing. This is an emergent situation that poses a hazard to navigation
+Example 2. A buoy has exceeded its watch circle which suggests it has broken free from its mooing. This is an emergent situation that poses a hazard to navigation
 
 Steps
 
@@ -107,7 +104,7 @@ Steps
 5. The Operator assumes responsibility and executes the "Loose at sea, Asset Procedure." 
 
 
-3. During a dive, a glider detects water in the electronics bay, auto-aborts the dive, surfaces in a shipping lane and sends a distress signal via satellite. This is a safety event and an emergent situation requiring immediate action.
+Example 3. During a dive, a glider detects water in the electronics bay, auto-aborts the dive, surfaces in a shipping lane and sends a distress signal via satellite. This is a safety event and an emergent situation requiring immediate action.
 
 Steps
 
@@ -118,7 +115,7 @@ Steps
 5. The Operator assumes responsibility and executes the "Loose at sea, Hazard to Shipping, Asset Procedure." This would include changing the life-cycle state of the platform.
 
 
-4. An instrument detects an underwater event of scientific interest, communicates to shore and receives instructions to change sampling intervals and/or movement to investigate. Intensive monitoring is required to avoid consuming irreplaceable power or other resources.
+Example 4. An instrument detects an underwater event of scientific interest, communicates to shore and receives instructions to change sampling intervals and/or movement to investigate. Intensive monitoring is required to avoid consuming irreplaceable power or other resources.
 
 Steps
 
@@ -131,7 +128,7 @@ Steps
 7. The Operators then closely monitor the reassigned assets for both data performance and operational consequences of these new assignments.
 8. At the end of the mission, the assets are returned to their previously defined sampling rates or to those rates as specified in the amended mission plan. The webmaster post and announcement of the changed configurations.
 
-5. A recent deployment included an externally funded and new instrument. It is unknown exactly how the rest of the mooring will respond. Close monitoring is required for both the mooring and the affected data path to ensure the new instrument and data do not affect the rest of the system.
+Example 5. A recent deployment included an externally funded and new instrument. It is unknown exactly how the rest of the mooring will respond. Close monitoring is required for both the mooring and the affected data path to ensure the new instrument and data do not affect the rest of the system.
 
 Steps
 
@@ -139,7 +136,7 @@ Steps
 2. Depending on the length of the activity and assessed possible impact to the mooring, initial close monitoring may proceed from hourly to daily to weekly if all operations appear nominal.
 3. The Operator and a Facility user have pre-approved contingency actions that they can take to safeguard the deployed assets and the data path of OOI products.
 
-6. There is a need to set/change alerts/alarms and then monitor them closely to make sure the changes were correct and that the item of interest is being properly auto-monitored and reported by the system. This scenario applies to
+Example 6. There is a need to set/change alerts/alarms and then monitor them closely to make sure the changes were correct and that the item of interest is being properly auto-monitored and reported by the system. This scenario applies to
 
 - All sea assets
 - All land assets
@@ -157,3 +154,12 @@ Steps
 7. The users monitor subscriptions .
 8. The users respond per procedures. These responses include examination of data streams, examination of telemetry, trouble shooting, all steps of data path from instrument to data delivery, generate/provide reports, generate and report performance metrics and issues, search, filter and download data, view/edit metadata, update of procedures, and updating of alert settings.
 
+Example 7. Ocean Leadership requests MTBF statistics on deployed assets for reporting purposes.
+
+Steps
+
+1. The Facility manager logs into the User Interface and searches for all deployed assets.
+2. The Facility manager views the logs and events of each deployed asset. He selects download logs and events option.
+3. The Facility manager is able to select the data format and download the file on the local computer hard disk.
+4. The Facility manager uses the extracted data to calculate MTBF and other metrics of interest. ex) uptime, downtime, connection attempts vs connections, etc.
+5. The Facility manager presents the statistics and findings to Ocean Leadership.
