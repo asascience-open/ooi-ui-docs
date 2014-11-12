@@ -18,8 +18,9 @@ Helpful tooltips provide links to documentation such as vocabulary dictionary, a
 
 ## Scenario
 1. A user logs into the User Interface
+2. The OOI homepage displays links to various OOI documentation such as acronym dictionary, OOI data management plan, OOI data usage policy, etc.
 2. The user searches for and navigates to the Coastal Endurance Oregon Surface Piercing Profiler mooring.
 3. The user is provided with tooltip options which point to the vocabulary dictionary, description of provenance. These may be exposed as links or files to download.
-4. The user then browses through the list of instruments attached to this mooring and is interested in the CDOM data product. User is able to find the link to the Data Product Specification (DPS) document.
+4. The user then browses through the list of instruments attached to this mooring and is interested in the CDOM data product. The user is able view the list of data products and find the link to the Data Product Specification (DPS) document associated with each data product.
 
 ## Comments
