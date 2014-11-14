@@ -5,7 +5,7 @@
 | --- | --- |
 | Name | Search and Download for OOI Documents and Reports |
 | Scopre of Work | Science UI |
-| Actors | Science User |
+| Actors | Science User, Data Evalautor, Marine Operator, Data Manager |
 | Requester | OL |
 | Description | Allows text-based search of website or archives |
 
@@ -27,7 +27,7 @@ Steps:
 1. The user navigates to the OOI 'Resources' tab of the OOI homepage website (oceanobservatories.org); 
 2. The user clicks on the Pioneer Array documentation link; 
 3. The user clicks on the deployment date on the Pioneer documentation page; 
-4. The user scans the listed documents for April 2014, locates and downloads the cruise plan and cruise report; 
+4. The user searches for a specific time frame and and downloads files of interest (for example: the cruise plan and cruise report) 
 
 ##Comments
 
