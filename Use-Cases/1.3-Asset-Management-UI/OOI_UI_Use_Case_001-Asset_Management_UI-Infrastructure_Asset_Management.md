@@ -5,7 +5,7 @@
 | --- | --- |
 | Name | Infrastructure Asset Management |
 | Scope of Work | Asset Management UI |
-| Actors | Operator, Facility |
+| Actors | Operator, Facility, Data Manager |
 | Requester | OL |
 | Description |  |
 
@@ -14,7 +14,7 @@
 ## Assumptions
 - Database that contains a comprehensive structure to describe and document the marine infrastructure:
   - Reference Designator
-  - Array -> Platform -> Site -> Port -> Instrument
+  - Array -> Platform -> Site -> Port -> Instrument (Question by Oscar, does this agre with the OOI ontology developed by Steve Gaul? Deanna can you check)
 - The asset spreadsheet template is defined and mapped to the data model.
 - The user has logged into the User Interface and has privileges to create/edit/delete resources and corresponding metadata.
 
