@@ -27,10 +27,10 @@ The following steps describe how the operator or project scientist will update t
 
 
 1. A Data Product Algorithm has been updated with new calibration data provided by a sensor vendor. 
-a. A new calibration file has been provided by the commericial vendor for a particular sensor to the Marine Operator
-b. The Marine IO uploads the file into OOInet.  
-c. The Marine IO navigates to the senor and links the calibration file to the appropiate sensor
-d. The uFrame database stores the new calibration values
+  1. A new calibration file has been provided by the commericial vendor for a particular sensor to the Marine Operator
+  2. The Marine IO uploads the file into OOInet.  
+  3. The Marine IO navigates to the senor and links the calibration file to the appropiate sensor
+  4. The uFrame database stores the new calibration values
 
 2. When the new calibration is applied to the OOINet system, the uFrame database will update all data product metadata values which have changed. Data product metadata shall include:
   1. Name of and link to the Data Product Specification document
