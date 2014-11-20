@@ -1,0 +1,33 @@
+#![](http://www.rpsgroup.com/images/2012-specific/RPSlogo.aspx) OOI Web UI Construction 
+# Mission Execution
+
+| Use Case ID | 014 |
+| --- | --- |
+| Name | Mission Planning  |
+| Scope of Work | Command and Control UI |
+| Actors | Operators, Facility, Science |
+| Requester | OL |
+| Description | User executes steps to load a mission execution plan (sensors, platforms) into the OOI database then decides to update the mission execution. 
+
+##Definition
+A Mission Execution allows for a coordinated set of commands to be given to platforms and sensors. This will apply only to cabled instruments on Endurance and RSN arrays.
+
+
+##Assumptions
+- The cabled assets have been deployed with initial configuration and Mission plans.
+- An asset tracking system is a functional component of OOI Net.
+- Operators have command and control capability.
+- Operator has prepared a new mission execution in the correct file format required for ingestion into the CI.
+
+##Scenario
+
+The marine operator reviews the existing Mission Execution for a cabled Shallow Profiler. Due to changes in current conditions, marine operator decides to change the Mission Execution for this Shallow Profiler.
+
+STEPS
+
+1. The marine operator logs into the OOI User Interfaces with appropriate credentials/permissions and navigates to the Command and Control screen for the Shallow Profiler of interest. 
+2. The marine operator is able to view the current Mission Execution and the status of the current mission. The operator may also view the logs and event history of the mission.  
+3. The marine operator selects the option to update the current mission execution which sends a command to stop the current mission execution.
+4. The marine operator uploads the prepared new mission execution file into the system. The saves the new mission execution file into the CI database.
+5. The marine operator selects the option to execute the Mission Execution for the Shallow Profiler.
+6. The mission execution changes to this asset are logged and notifications are sent to subscribers.
