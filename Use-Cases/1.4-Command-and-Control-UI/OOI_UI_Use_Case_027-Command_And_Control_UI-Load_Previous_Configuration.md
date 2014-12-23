@@ -17,4 +17,4 @@ Allow the Marine Operator the ability to load a new instrument or new platform w
 
 ## Scenario
 
-An operator deploys a new asset taht is similar to a previous asset.  Instead of manually entering all the data, the user loads a previously used configuratin and alters it as needed.  The user can also save off a configuration for later use.
+An operator deploys a new asset that is similar to a previous asset.  Instead of manually entering all the data, the user loads a previously used configuratin and alters it as needed.  The user can also save off a configuration for later use.
