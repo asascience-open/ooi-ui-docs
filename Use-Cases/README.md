@@ -28,7 +28,7 @@
 | 026      | Command and Control UI   | Testing                                             | X          |                | X          |                |                    |
 | 027      | Command and Control UI   | Load Previous Configuration                         | X          |                | X          |                |                    |
 | 028      | Status UI                | Register New User                                   | X          | X              | X          | X              | X                  |
-| 029      | Status UI                | Request and Obtain Privelages and Roles             | X          | X              | X          | X              | X                  |
+| 029      | Status UI                | Request and Obtain Privileges and Roles             | X          | X              | X          | X              | X                  |
 | 030      | Status UI                | Submit a Trouble Ticket                             | X          | X              | X          | X              | X                  |
 | 031      | Status UI                | Respond to a Trouble Ticket                         |            |                | X          |                |                    |
 | 032      | Science UI               | Update Metadata                                     | X          | X              |            |                |                    |
