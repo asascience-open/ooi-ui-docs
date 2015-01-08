@@ -23,7 +23,7 @@ The OOI provides a free form text capability for the two identified groups to an
 
 
 ##Scenario
-A registered user (scientist at ONC) is reviewing the data from the Washington line and notices an unusual set of CDOM values. Realizing this might be of scientific interest, she wants to annotate the product and site metadata.
+A registered user (scientist at OMC) is reviewing the data from the Washington line and notices an unusual set of CDOM values. Realizing this might be of scientific interest, she wants to annotate the product and site metadata.
 
 STEPS:
 
