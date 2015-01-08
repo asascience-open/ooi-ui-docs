@@ -11,8 +11,8 @@
 |[OOI UI Use Case 021 - Science UI - Search And Download For OOI Data And Metadata](OOI_UI_Use_Case_021-Science_UI-Search_And_Download_For_OOI_Data_And_Metadata.md)| Allows subject, geographic or time-based search for OOI data based on specified criteria. |
 |[OOI UI Use Case 022 - Science UI - Search And Download For OOI Documents And Reports](OOI_UI_Use_Case_022-Science_UI-Search_And_Download_For_OOI_Documents_And_Reports.md)| Allows text-based search of website or archives |
 |[OOI UI Use Case 023 - Science UI - Add Ancillary Data From OOI Cruises](OOI_UI_Use_Case_023-Science_UI-Add_Ancillary_Data_From_OOI_Cruises.md)| The ability to Add ancillary data from OOI cruises |
-|[OOI UI Use Case 024 - Status UI - Annotate Data](OOI_UI_Use_Case_024-Status_UI-Annotate_Data.md)| Permits two levels of data annotation. |
+|[OOI UI Use Case 024 - Status UI - Annotate Data](OOI_UI_Use_Case_024-Science_UI-Annotate_Data.md)| Permits two levels of data annotation. |
 |[OOI UI Use Case 025 - Science UI - Examine Data Product Or Auxiliary Data](OOI_UI_Use_Case_025-Science_UI-Examine_Data_Product_Or_Auxiliary_Data.md)| User performs analysis on data set to determine if it is of sufficient quality to use in research. |
 |[OOI UI Use Case 032 - Status UI - Update Metadata](OOI_UI_Use_Case_032-Status_UI-Update_Metadata.md)| Update values of all required metadata fields when a data product is updated |\|\\
-|[OOI UI Use Case 034 - Science UI - Associations](OOI_UI_Use_Case_034-Science_UI-Associations.md)|User configurable capability to display ìside by sideî measurements from different instruments and/or systems for cross comparison.|
+|[OOI UI Use Case 034 - Science UI - Associations](OOI_UI_Use_Case_034-Science_UI-Associations.md)|User configurable capability to display ‚Äúside by side‚Äù measurements from different instruments and/or systems for cross comparison.|
 |[OOI UI Use Case 035 - Status UI - Bathymetric Scene](OOI_UI_Use_Case_035-Status_UI-Bathymetric_Scene.md)| Included in the 3d scene should be realistic bathymetric data||
